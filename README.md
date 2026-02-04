@@ -7,4 +7,4 @@
 - Quantity support
 - A graphical menu
 - A class‑based menu system
-+ I'd like to try implementing that with Arduino in the nearest future ?
+ + I'd like to try implementing that with Arduino in the nearest future ?
