@@ -1,7 +1,6 @@
 ## Project
 I coded this mini app in order to work on my POO skills in Python.
-I found this type of exercice good enough to review the basic and consolidate my knowledge.
-
+I found this type of exercice good enough to review the basic and consolidate the fundamentals.
 
 ##  Improvements
 - Saving orders to a file
