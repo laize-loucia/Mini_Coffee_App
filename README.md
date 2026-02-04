@@ -1,6 +1,7 @@
 ## Project
 I coded this mini app in order to work on my POO skills in Python.
 I found this type of exercice good enough to review the basic and consolidate the fundamentals.
+ + I'd like to try implementing that with Arduino in the nearest future ?
 
 ##  Improvements
 - Saving orders to a file
@@ -8,4 +9,3 @@ I found this type of exercice good enough to review the basic and consolidate th
 - Quantity support
 - A graphical menu
 - A class‑based menu system
- + I'd like to try implementing that with Arduino in the nearest future ?
