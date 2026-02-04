@@ -1,7 +1,7 @@
 ## Project
 
 
-##  Missings Features
+##  Improvements
 - Saving orders to a file
 - Removing items from the cart
 - Quantity support
